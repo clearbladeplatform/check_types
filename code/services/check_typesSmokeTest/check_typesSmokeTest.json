@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,check_types",
+    "logging_enabled": "false",
+    "name": "check_typesSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "check_typesSmokeTest.js"
+}
